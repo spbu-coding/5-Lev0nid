@@ -3,6 +3,7 @@
 void other() {
     printf("I want to sleep :(. Also you have managed to reach secret part of my program.");
     fflush(stdout);
+    return;
 }
 
 void input() {
